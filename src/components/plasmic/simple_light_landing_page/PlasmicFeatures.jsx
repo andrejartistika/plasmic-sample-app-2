@@ -68,7 +68,7 @@ function PlasmicFeatures__RenderFunc(props) {
             data-plasmic-override={overrides.header}
             className={classNames("__wab_instance", sty.header)}
           />
-
+          <div> This is a custom div for a custom page</div>
           <Section
             data-plasmic-name={"section"}
             data-plasmic-override={overrides.section}
