@@ -78,7 +78,7 @@ function PlasmicFeatures__RenderFunc(props) {
             subtitle={
               "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat."
             }
-            title={"The ultimate in feature set."}
+            title={"The ultimate in feature set. Second row in here"}
           >
             <p.Stack
               as={"div"}
